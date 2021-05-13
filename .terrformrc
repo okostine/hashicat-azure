@@ -1,0 +1,8 @@
+
+
+credentials "app.terraform.io" {
+    # valid user API token:
+    token = "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"
+  }
+
+
